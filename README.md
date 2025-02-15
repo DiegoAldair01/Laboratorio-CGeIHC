@@ -1,2 +1,6 @@
 # Laboratorio-CGeIHC
-Repositorio del Laboratorio de Computación Gráfica e Interacción Humano-Computadora. En este repositorio se guardaran las prácticas realizadas en laboratorio semana a semana.
+## Nombre Completo: Diego Aldair García Hernández
+### # de Cuenta: 31902404-5
+#### Grupo de Laboratorio: 02
+#### Grupo de Teoria: 04
+#### Semestre: 2025-2
